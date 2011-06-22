@@ -1,0 +1,11 @@
+---
+layout: post
+title: Another test
+---
+
+h1. {{ page.title }}
+
+p(meta). 2011-06-22 - Ulm
+
+Next test with comments
+
